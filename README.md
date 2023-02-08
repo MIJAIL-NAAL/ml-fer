@@ -1,14 +1,12 @@
 # Facial Expression Recognition with Keras
 
-### This project was developed by building and training a convolutional neural network (CNN) in Keras to recognize facial expressions of seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral).
+This project was developed by building and training a convolutional neural network (CNN) in Keras to recognize facial expressions of seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral).
+
+The final result is a flask application that allows serve the trained model predictions and perform real-time facial expression recognition on video and image data, using OpenCV to automatically detect faces in images and draw bounding boxes around them. 
 
 <br>
 
-### The final result is a flask application that allows serve the trained model predictions and perform real-time facial expression recognition on video and image data, using OpenCV to automatically detect faces in images and draw bounding boxes around them. 
-
-<br>
-
-##### *This project is based on a Snehan Kekre course.*
+###### *This project is based on a Snehan Kekre course.*
 
 <br>
 <br>
